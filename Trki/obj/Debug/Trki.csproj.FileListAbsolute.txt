@@ -1,0 +1,10 @@
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\bin\Debug\Trki.exe.config
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\bin\Debug\Trki.exe
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\bin\Debug\Trki.pdb
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\obj\Debug\Trki.csproj.AssemblyReference.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\obj\Debug\Trki.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\obj\Debug\Trki.Properties.Resources.resources
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\obj\Debug\Trki.csproj.GenerateResource.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\obj\Debug\Trki.csproj.CoreCompileInputs.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\obj\Debug\Trki.exe
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\Trki\obj\Debug\Trki.pdb

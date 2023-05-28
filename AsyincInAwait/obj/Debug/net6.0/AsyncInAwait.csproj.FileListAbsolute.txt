@@ -1,0 +1,15 @@
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\bin\Debug\net6.0\AsyncInAwait.exe
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\bin\Debug\net6.0\AsyncInAwait.deps.json
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\bin\Debug\net6.0\AsyncInAwait.runtimeconfig.json
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\bin\Debug\net6.0\AsyncInAwait.dll
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\bin\Debug\net6.0\AsyncInAwait.pdb
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.csproj.AssemblyReference.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.AssemblyInfoInputs.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.AssemblyInfo.cs
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.csproj.CoreCompileInputs.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.dll
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\refint\AsyncInAwait.dll
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.pdb
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\AsyncInAwait.genruntimeconfig.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Vaje10\JeRe_Vaje10\AsyincInAwait\obj\Debug\net6.0\ref\AsyncInAwait.dll

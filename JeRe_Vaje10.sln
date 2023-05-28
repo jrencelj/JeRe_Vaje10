@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloomovFilter", "BloomovFilter\BloomovFilter.csproj", "{ECA17E60-B14E-4E1D-AC88-B4F6F6041C8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{8E7DF22D-7297-45E6-A264-D31BBD5463EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncInAwait", "AsyincInAwait\AsyncInAwait.csproj", "{06C20346-4456-49AE-8B97-673E5B40DCB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-Rex", "..\..\..\..\..\..\..\Downloads\Lestvice\Lestvice\Trex\T-Rex.csproj", "{7014291D-373B-4188-AAA1-A2B4B52A24B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncInAwaitBaza", "AsyncInAwaitBaza\AsyncInAwaitBaza.csproj", "{E039054C-C54A-4402-AC28-ACCFE763C89D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trki", "..\..\..\..\..\..\..\Downloads\TrkiDemo\TrkiDemo\TrkiDemo\Trki.csproj", "{9E92C633-4D14-4D86-8C01-CA45676990D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA17E60-B14E-4E1D-AC88-B4F6F6041C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA17E60-B14E-4E1D-AC88-B4F6F6041C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA17E60-B14E-4E1D-AC88-B4F6F6041C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA17E60-B14E-4E1D-AC88-B4F6F6041C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7DF22D-7297-45E6-A264-D31BBD5463EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7DF22D-7297-45E6-A264-D31BBD5463EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7DF22D-7297-45E6-A264-D31BBD5463EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7DF22D-7297-45E6-A264-D31BBD5463EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C20346-4456-49AE-8B97-673E5B40DCB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C20346-4456-49AE-8B97-673E5B40DCB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C20346-4456-49AE-8B97-673E5B40DCB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C20346-4456-49AE-8B97-673E5B40DCB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E039054C-C54A-4402-AC28-ACCFE763C89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E039054C-C54A-4402-AC28-ACCFE763C89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E039054C-C54A-4402-AC28-ACCFE763C89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E039054C-C54A-4402-AC28-ACCFE763C89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E92C633-4D14-4D86-8C01-CA45676990D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E92C633-4D14-4D86-8C01-CA45676990D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E92C633-4D14-4D86-8C01-CA45676990D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E92C633-4D14-4D86-8C01-CA45676990D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D1D0B8-40E9-4708-8A91-4DC92A311657}
+	EndGlobalSection
+EndGlobal

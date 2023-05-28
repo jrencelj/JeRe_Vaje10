@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pStSj1VCk8b1EFKUc5kte1kkL/I3YSqJGBrELOjSEMqhLUTjWMyM63WF7Pxt2dxKdDPq8S7C73yE/aKS3joPqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrenc\\OneDrive\\Namizje\\FMF\\FMF3\\PRO3\\Vaje10\\JeRe_Vaje10\\BloomovFilter\\BloomovFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrenc\\.nuget\\packages\\bloomfilter.netcore\\2.0.0\\bloomfilter.netcore.2.0.0.nupkg.sha512",
+    "C:\\Users\\jrenc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

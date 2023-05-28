@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jrenc\\OneDrive\\Namizje\\FMF\\FMF3\\PRO3\\Vaje10\\JeRe_Vaje10\\BloomovFilter\\BloomovFilter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jrenc\\OneDrive\\Namizje\\FMF\\FMF3\\PRO3\\Vaje10\\JeRe_Vaje10\\BloomovFilter\\BloomovFilter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jrenc\\OneDrive\\Namizje\\FMF\\FMF3\\PRO3\\Vaje10\\JeRe_Vaje10\\BloomovFilter\\BloomovFilter.csproj",
+        "projectName": "BloomovFilter",
+        "projectPath": "C:\\Users\\jrenc\\OneDrive\\Namizje\\FMF\\FMF3\\PRO3\\Vaje10\\JeRe_Vaje10\\BloomovFilter\\BloomovFilter.csproj",
+        "packagesPath": "C:\\Users\\jrenc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jrenc\\OneDrive\\Namizje\\FMF\\FMF3\\PRO3\\Vaje10\\JeRe_Vaje10\\BloomovFilter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jrenc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BloomFilter.NetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
